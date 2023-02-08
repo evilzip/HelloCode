@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Example001_HellowConsole/1.0.0": {
+      "Emaple005_Condition/1.0.0": {
         "runtime": {
-          "Example001_HellowConsole.dll": {}
+          "Emaple005_Condition.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Example001_HellowConsole/1.0.0": {
+    "Emaple005_Condition/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DATA\\GeekBrains\\Знакомство с Си Шарп\\Examples\\Example001_HellowConsole\\Example001_HellowConsole.csproj",
-      "projectName": "Example001_HellowConsole",
-      "projectPath": "C:\\DATA\\GeekBrains\\Знакомство с Си Шарп\\Examples\\Example001_HellowConsole\\Example001_HellowConsole.csproj",
+      "projectUniqueName": "C:\\DATA\\GeekBrains\\Знакомство с Си Шарп\\Examples\\Example005_Condition\\Emaple005_Condition.csproj",
+      "projectName": "Emaple005_Condition",
+      "projectPath": "C:\\DATA\\GeekBrains\\Знакомство с Си Шарп\\Examples\\Example005_Condition\\Emaple005_Condition.csproj",
       "packagesPath": "C:\\Users\\o2clo\\.nuget\\packages\\",
-      "outputPath": "C:\\DATA\\GeekBrains\\Знакомство с Си Шарп\\Examples\\Example001_HellowConsole\\obj\\",
+      "outputPath": "C:\\DATA\\GeekBrains\\Знакомство с Си Шарп\\Examples\\Example005_Condition\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\o2clo\\AppData\\Roaming\\NuGet\\NuGet.Config"
